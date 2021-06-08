@@ -1,0 +1,52 @@
+/**
+ * System Name: Zapport Video Storage
+ *
+ * Author: Seo Web Developer Team
+ * 
+ * Description: This system will be the storage app for all the 
+ * videos that might be create/make in the near future.
+ *
+ * Text Domain: zapport-videos
+ * 
+ * Tags: upload-videos, elegant-style, bootstrap
+ */
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variables
+# Normalize
+# Typography
+	## Headings
+	## Copy
+# Elements
+	## Lists
+	## Tables
+# Forms
+	## Buttons
+	## Fields
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Content
+	## Videos
+# Media
+	## Media Query
+
+----------------------------------------------------------------*/
+
+
+/* Navigation */
+@import 'nav/nav';
+
+/* Content */
+@import 'site/site';
+
+
+/* Login */
+@import 'site/login/login';
+
+
+/* Media Query */
+@import 'media/media_query';
